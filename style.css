@@ -1,0 +1,20 @@
+.couleurRouge{
+    color: red;
+} 
+
+.maBoite{
+    background-color: blue;
+}
+
+.sousBoite{
+    border: red 5px solid;
+    background-color: green;
+}
+
+.monCercle{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: blue 4px solid;
+}
